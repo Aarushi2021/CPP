@@ -11,6 +11,7 @@ int main(){
 					cout<<x<<endl;
 						cout<<n;
 						cout<<"hello world";
+						cout<<"C++ is my favourite language";
 							return 0;
 								
 
